@@ -27,7 +27,7 @@ We are seeking collaborators to help us expand our dataset.
 ## Our publication
 ```
 @inproceedings{Uezono2025DarkWrt,
-  title     = {{Poster: DarkWrt: Towards Building a Dataset of Potentially Unwanted Functions in IoT Devices}},
+  title     = {Poster: DarkWrt: Towards Building a Dataset of Potentially Unwanted Functions in IoT Devices},
   author    = {Uezono, Daichi and Kushibiki, Junnosuke and Sasaki, Takayuki and Hara, Satoshi and Zhauniarovich, Yury and Gañán, Carlos H. and van Eeten, Michel and Yoshioka, Katsunari},
   booktitle = {Poster presented at the Network and Distributed System Security Symposium (NDSS) 2025},
   year      = {2025},
